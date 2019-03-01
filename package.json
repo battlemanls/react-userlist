@@ -3,9 +3,17 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "ajax": "0.0.4",
+    "chart.js": "^2.7.3",
+    "install": "^0.12.2",
+    "npm": "^6.8.0",
     "react": "^16.8.3",
+    "react-chartjs-2": "^2.7.4",
     "react-dom": "^16.8.3",
-    "react-scripts": "2.1.5"
+    "react-google-charts": "^3.0.10",
+    "react-modal": "^3.8.1",
+    "react-scripts": "2.1.5",
+    "semantic-ui-react": "^0.85.0"
   },
   "scripts": {
     "start": "react-scripts start",
